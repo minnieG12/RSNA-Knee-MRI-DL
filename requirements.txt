@@ -1,0 +1,16 @@
+# Core numerical / data stack
+numpy>=2.0,<3
+pandas>=2.2,<3
+pydicom>=3.0,<4
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
+tqdm>=4.66,<5
+
+# Deep learning
+torch==2.11.0
+torchvision==0.26.0
+timm==1.0.29
+
+# Notebook / development
+jupyterlab>=4.0,<5
+ipykernel>=6.0,<7
